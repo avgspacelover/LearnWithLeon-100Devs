@@ -1,0 +1,47 @@
+
+
+body{
+    margin: 70px 70px;
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+#header{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+
+    background-color: black;
+}
+#logo-div{
+    display: inline-block;
+    
+    width: 18px;
+}
+
+
+#nav-list{
+    float: left;
+}
+
+.nav-list-item{
+    display:inline;
+}
+
+
+
+
+input#search{
+    background-image: images/search-b;
+    background-repeat: no-repeat;
+    text-indent: 20px;
+   }
+   
+
+#search:active { background-image: none; }
