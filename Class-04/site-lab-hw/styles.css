@@ -6,21 +6,18 @@
 body>div{
     background-color: #89C4F4;
     color: #FFF;
-    max-width: 508px;
-    
-    
+    max-width: 508px;   
     text-align:center;
     margin: 0 auto;
 
 }
-
+div{
+    padding: 15px;
+}
 
 div > div {
 
-    border: 5px solid #26C281;
-    margin: 25px;
-    
-    
+    border: 5px solid #26C281; 
        
 }
 
