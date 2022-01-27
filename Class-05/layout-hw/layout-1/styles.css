@@ -1,0 +1,34 @@
+#head{
+    width:100vw;
+    height: 15vh;
+    background-color: royalblue;
+
+}
+
+.sec{
+    float: left;
+    
+}
+.sec-1{
+    width: 32.8vw;
+    background-color: salmon;
+    border: 0.5px solid lightseagreen;
+    height: 30vh;
+    
+}
+
+.sec-2{
+    width: 49vw;
+    background-color: goldenrod;
+    border: 1px solid greenyellow;
+    height: 40vh;
+
+}
+
+#foot{
+    width: 100vw;
+    clear: left;
+    height: 15vh;
+    background-color: indigo;
+
+}
