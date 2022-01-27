@@ -1,0 +1,28 @@
+header{
+    width: 100%;
+    height: 100px;
+    background:indigo;
+}
+
+section{
+    width: 33.3333%;
+    height: 300px;
+    float: left;
+    border: 0px solid #fff;
+}
+footer{
+    width: 100%;
+    height: 100px;
+    background-color:indigo;
+    clear:left
+}
+
+#sec-1{
+    background: khaki;
+}
+#sec-2{
+    background: lawngreen;
+}
+#sec-3{
+    background: peru;
+}
