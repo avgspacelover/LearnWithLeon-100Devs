@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+#head{
+    width:100vw;
+    height: 20vh;
+    background-color: lightseagreen;
+    border: 1px solid black;
+
+}
+
+.secOne{
+    width: 100vw;
+    height: 30vh;
+    background-color: red;
+    border: 1px solid black;
+
+}
+
+.secTwo{
+    
+    border: 1px solid black;
+    height: 30vh;
+    border: 1px solid black;
+
+}
+#twoOne{
+    width: 40vw;
+    background-color: magenta;
+    float:left;
+    
+}
+#twoTwo{
+    width: 59vw;
+    float:left;
+    background-color: orange;
+    
+}
+
+#foot{
+    clear:left;
+    width:100vw;
+    height: 20vh;
+    background-color: lightseagreen;
+    border: 1px solid black;
+
+}
