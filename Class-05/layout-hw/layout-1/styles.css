@@ -16,7 +16,7 @@
     
 }
 .sec-1{
-    width: 32.8vw;
+    width: 33.333vw;
     background-color: salmon;
     border: 0.5px solid lightseagreen;
     height: 30vh;
@@ -24,11 +24,11 @@
 }
 
 .sec-2{
-    width: 49vw;
+    width: 50vw;
     background-color: goldenrod;
     border: 1px solid greenyellow;
     height: 40vh;
-    clear:left;
+    
 
 }
 
