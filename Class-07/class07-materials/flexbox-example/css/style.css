@@ -29,8 +29,16 @@ body {
 /******************************************
 /* LAYOUT
 /*******************************************/
+main, .bottom{
+     display: flex;
 
-
+}
+section{
+     flex: 1;
+     border: 5px solid white;
+     background-color: orangered;
+     height: 25vh;
+}
 
 /******************************************
 /* ADDITIONAL STYLES
