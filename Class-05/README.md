@@ -1,10 +1,16 @@
 # CSS- In Depth into Layouts
 
-- DO: 
-    - Complete 3 Layouts
 
-- READ: 
-    - https://learn.shayhowe.com/advanced-html-css/responsive-web-design/
+## Readings/ Videos Assigned
 
-    - https://learn.shayhowe.com/advanced-html-css/
+ 
+- *READ*: https://learn.shayhowe.com/advanced-html-css/responsive-web-design/
+- *READ*: https://learn.shayhowe.com/advanced-html-css/
 
+
+## HW Submissions
+
+- 3 LAYOUTS
+    - LINK: https://glitch.com/edit/#!/leon-class-05-layout-01
+    - LINK: https://glitch.com/edit/#!/leon-class-05-layout-02
+    - LINK: https://glitch.com/edit/#!/leon-class-05-layout-03
