@@ -21,22 +21,76 @@
 /* BASE STYLES
 /*******************************************/
 
-body {
 
-}
 
 
 /******************************************
 /* LAYOUT
 /*******************************************/
 header {
-
+  height: 20vh;
+  width: 100vw;
+  background-color: palegreen;
+  border: 3px solid white;
 }
 
 footer {
-
+height: 20vh;
+width: 100vw;
+background-color: palegreen;
+border: 3px solid white;
+clear:left;
 }
 
+section {
+  float: left;
+  width: 32.83vw;
+  height: 60vh;
+  background-color: skyblue;
+  border: 5px solid white;
+  
+}
+
+section:first-of-type{
+  background-color: maroon;
+}
+section:last-of-type{
+  background-color: yellow;
+}
+
+@media only screen and (max-width:850px) {
+
+  section{
+    background-color: pink;
+  }
+  
+}
+
+
+
+@media only screen and (max-width: 600px) {
+  section{
+    background-color: orange;
+    height: 100vh;
+  }
+  header,footer{
+    display:none;
+  }
+  
+}
+
+
+@media only screen and (max-width: 300px) {
+  section{
+    background-color: orange;
+    height: 50vh;
+  }
+  header,footer{
+    height:25vh;
+    background-color: lightcoral;
+  }
+  
+}
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
