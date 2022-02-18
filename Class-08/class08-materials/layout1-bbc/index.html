@@ -6,7 +6,7 @@
   	<meta name="keywords" content="one, two, three">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		
-		<title>Blank Template</title>
+		<title>BBC</title>
 
 		<!-- external CSS link -->
 		<link rel="stylesheet" href="css/normalize.css">
@@ -15,19 +15,22 @@
 	<body>
 			<!--navigation,Site name, Search Bar-->
 			<header id="header">
-				<div id="logo-div">
-		
-					<img src="images/bbc.png" alt="BBC logo">
-		
-				</div>
-		
-				<div id="sign-in-div">
-		
-					<img src="images/signin.png" alt="sign-in logo">
-		
-				</div>
+				
 		
 				<nav id="nav-bar">
+					<div id="logo-div">
+		
+						<img id="logo-div-img" src="images/bbc.png" alt="BBC logo">
+			
+					</div>
+			
+					<div id="signin-div">
+			
+						<img id="signin-div-img" src="images/signin.png" alt="sign-in logo">
+						<span id="signin-text">Sign in</span>
+			
+					</div>
+
 					<ul id="nav-list">
 						<li class="nav-list-item">
 							Home
@@ -61,13 +64,13 @@
 							Culture
 						</li>
 		
-						<li class="nav-list-item">
+						<li class="nav-list-item" id="more-dropDown">
 							More 
 						</li>
 						
 					</ul>
 					
-					<label>
+					<label for="search">
 						
 						<input id="search" />
 		
@@ -80,7 +83,7 @@
 			</header>
 			<!--greeting and Date-->
 			<section class="news-heading">
-				<div class="news-heading-text">
+				<div id="news-heading-text">
 					Welcome to BBC.com
 				</div>
 		

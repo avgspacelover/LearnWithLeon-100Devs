@@ -22,7 +22,7 @@
 /*******************************************/
 
 body {
-
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 
@@ -33,10 +33,147 @@ header {
 
 }
 
+
+
 footer {
 
 }
 
 /******************************************
-/* ADDITIONAL STYLES
+/* NAVIGATION PANE 
 /*******************************************/
+#nav-bar{
+  background-color: black;
+  color:white;
+  height: 4em;
+  
+  font-weight:600;
+  font-size: 13px;
+  margin-top: 0;
+  
+}
+#logo-div{
+  float: left;
+  width: 9em;
+  
+}
+#logo-div-img{
+  width: 7em;
+  height: 2.5em;
+  margin: 1em 1.5em;
+}
+#signin-div{
+  float:left;
+  width: 11em;
+  text-align: center;
+  
+}
+
+#signin-div-img{
+  
+  width:3em;
+  height: 3em;
+  
+  margin: 0.1em;
+
+}
+#signin-text {
+  margin: 10em 0;
+}
+
+
+#nav-list{
+  list-style-type: none;
+  
+  
+  
+  
+}
+
+.nav-list-item{
+  
+  float:left;
+  padding: 1em;
+  margin: 0 0.75em;
+}
+
+#search {
+  margin: 1em;
+}
+
+/******************************************
+/* CONTENT 
+/*******************************************/
+/* GREETING & DATE*/
+
+.news-heading{
+  font-size: 22px;
+  font-weight: 700;
+  margin-left: 1px;
+  margin-right: 10px;
+  color: #4a4a4a;
+  margin-bottom: 1px;
+}
+#news-heading-text {
+  display:inline;
+}
+
+#date-heading{
+  float:right;
+  font-weight:300;
+}
+
+/******************************************
+/* NEWS SECTION
+/*******************************************/
+
+#hlt-major-container {
+  position: relative;
+  margin: 3%;
+}
+
+
+.major-img-tile-text{
+  position: absolute;
+  top: 177px;
+  left: 16px;
+  right: 16px;
+  bottom: 93px;
+  color: white;
+  font-weight: 500;
+}
+
+.large {
+  font-size: 32px;
+}
+
+.minor-img-tile-text {
+  position: absolute;
+  top: 247px;
+  left: 16px;
+  right: 16px;
+  bottom: 83px;
+  color: white;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.color-bar .small {
+  position: absolute;
+  left: 16px;
+  bottom: 20px;
+  width: 1.5px;
+  height: 14px;
+  background-color: red;
+}
+
+.theme-img-tile-text {
+  position: absolute;
+  color: white;
+  left: 25px;
+  bottom: 20px;
+  font-size: 14px;
+  
+}
+/*-----------------------*/
+
