@@ -9,7 +9,7 @@
 		<title>BBC</title>
 
 		<!-- external CSS link -->
-		<link rel="stylesheet" href="css/normalize.css">
+		<link rel="stylesheet" href="css/reset.css">
 		<link rel="stylesheet" href="css/style.css">
 	</head>
 	<body>
@@ -72,7 +72,7 @@
 					
 					<label for="search">
 						
-						<input id="search" />
+						<input id="search" type="text" placeholder="Search" />
 		
 					</label>
 					
@@ -98,87 +98,95 @@
 		
 		
 				<div id="hlt-major-container">
-					<img src="images/israel-uae.jpg" id="hlt-major-tile">
-		
-						<span class="major-img-tile-text large"> 
+
+					<!-- <img src="images/israel-uae.jpg" id="hlt-major-tile"> -->
+
+					<div id="headline-div">
+						<span class="headline-text"> 
 							Israel and UAE strike historic peace deal
 						</span>
 						
-						<span class="minor-img-tile-text">
+						<span class="headline-subtext">
 							Israel and UAE agree to normalise relations,marking the third Israel-Arab peace deal
 						</span>
 						
 						<div class="color-bar small"></div>
 						
-						<span class="theme-img-tile-text">MIDDLE EAST</span>
+						<span class="headline-theme">MIDDLE EAST</span>
+
+					</div>
+		
+						
 		
 				</div>
-				
-				<div class="hlt-minor-vert-container"> 
-					
-					<div class="minor-single-container">
+				<div id="headline-right">
+
+					<div id="minor-article-1">
 		
-						<img src="images/america-canada.jpg" class="hlt-minor-tile">
+						<!-- <img src="images/america-canada.jpg" class="hlt-minor-tile"> -->
 				
-							<span class="major-img-tile-text small">
+							<span id="minor-article-text">
 								Americans,go home: Tension at  Canada-US border
 							</span>
 							
 							<div class="color-bar small-blue"></div>
 							
-							<span class="theme-img-tile-text small">CANADA</span>
+							<span id="minor-article-theme">CANADA</span>
 		
 					</div>
 		
-					<div class="minor-single-container">
-						<img src="images/productivity.jpg" class="hlt-minor-tile">
+					<div id="minor-article-2">
+						<!-- <img src="images/productivity.jpg" class="hlt-minor-tile"> -->
 					
-							<span class="major-img-tile-text small">The online 'productivity gyms'</span>
+							<span class="minor-article-text">The online 'productivity gyms'</span>
 							
 							<div class="color-bar small-blue"></div>
 							
-							<span class="theme-img-tile-text small"> WORKLIFE</span>
+							<span class="minor-article-theme"> WORKLIFE</span>
 		
-					</div>  
-					
-				</div>
-				
-				<div class="hlt-minor-vert-container"> 
-					
-					<div class="minor-ind-container">
+					</div>  								
+									
+					<div id="minor-article-3"> 
 		
-						<img src="images/vaccine.jpg" class="hlt-minor-tile">
+						<!-- <img src="images/vaccine.jpg" class="hlt-minor-tile"> -->
+
 				
-							<span class="major-img-tile-text small">
+							<span class="minor-article-text">
 								How will the world vaccinate seven billion people?
 							</span>
 							
 							<div class="color-bar small"></div>
 							
-							<span class="theme-img-tile-text small">HEALTH</span>
+							<span class="minor-article-theme">HEALTH</span>
 		
 					</div>
 		
-					<div class="minor-single-container">
+					<div id="minor-article-4">
 						
-						<img src="images/victor-jara.jpg" class="hlt-minor-tile">
+						<!-- <img src="images/victor-jara.jpg" class="hlt-minor-tile"> -->
 				
-							<span class="major-img-tile-text small">
+							<span class="minor-article-text">
 								The folk singer murdered for his music
 							</span>
 							
 							<div class="color-bar small-blue"></div>
 							
-							<span class="theme-img-tile-text small">CULTURE</span>
+							<span class="minor-article-theme">CULTURE</span>
 		
 					</div>
-		
+
+
 				</div>
+				
+					
+					
+		
+				
 			
 			</section>
 		
 			<!--News Heading-->
-			<section class="news-heading" >
+			<section class="news-heading clearfix" >
 				
 				<div class="color-bar large"></div>
 		
@@ -237,6 +245,6 @@
 			
 		
 
-		<script type="text/javascript" src="js/main.js"></script>
+		
 	</body>
 </html>
