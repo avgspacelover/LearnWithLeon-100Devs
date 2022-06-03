@@ -3,7 +3,7 @@
 30 Week Full Stack Web Development Bootcamp by Leon Noel.
 
 - __Technologies__
-    - HTMl
+    - HTML
     - CSS
     - Javascript
     - Nodejs
@@ -31,7 +31,7 @@
 | Class #  | Classwork | Homework | Readings | Hosted Websites | Progress |
 | :----------: | :-----------: | :----------: | :----------: |:-----------------: | :----: |
 | Class 01 |           |          |          |                 | <ul><li> - [ ] </li></ul> |
-| Class 02 |           |          |          |                 | <ul><li> - [ ] </li></ul> |
+| Class 02 | https://github.com/antariksh17/LearnWithLeon-100Devs/Class-02          |          |          |                 | <ul><li> - [ ] </li></ul> |
 | Class 03 |           |          |          |                 | <ul><li> - [ ] </li></ul> |
 | Class 04 |           |          |          |                 | <ul><li> - [ ] </li></ul> |
 | Class 05 |           |          |          |                 | <ul><li> - [ ] </li></ul> |
