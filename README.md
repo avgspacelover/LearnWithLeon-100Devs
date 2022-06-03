@@ -30,7 +30,7 @@
 
 | Class #  | Classwork | Homework | Readings | Hosted Websites | Progress |
 | :----------: | :-----------: | :----------: | :----------: |:-----------------: | :-----: |
-| Class 01 |           |          |          |                 |   [ ] sing   |
+| Class 01 |           |          |          |                 | <ul><li> - [ ] </li></ul>   |
 | Class 02 |           |          |          |                 |   - [ ]    |
 | Class 03 |           |          |          |                 |   - [ ]    |
 | Class 04 |           |          |          |                 |   - [ ]    |
