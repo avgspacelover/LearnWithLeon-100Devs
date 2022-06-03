@@ -2,23 +2,23 @@
 
 30 Week Full Stack Web Development Bootcamp by Leon Noel.
 
-__Technologies__
-    - HTMl
-    - CSS
-    - Javascript
-    - Nodejs
-    - Expressjs
-    - MongoDB
-    - Heroku
+- __Technologies__
+        - HTMl
+        - CSS
+        - Javascript
+        - Nodejs
+        - Expressjs
+        - MongoDB
+     - Heroku
 
-__Skills__
-    - Full Stack Web Development(MERN)
-    - Data structures & Algorithms( In Javascript)
-    - Freelancing
-    - Networking
-    - Portfolio Ramp up
-    - Soft Skills
-    - Interview Preparation
+- __Skills__
+        - Full Stack Web Development(MERN)
+        - Data structures & Algorithms( In Javascript)
+        - Freelancing
+        - Networking
+        - Portfolio Ramp up
+        - Soft Skills
+        - Interview Preparation
 
 __JOIN__ 
     - http://leonnoel/discord
