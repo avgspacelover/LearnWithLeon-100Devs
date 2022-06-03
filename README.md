@@ -1,6 +1,32 @@
-# LearnWithLeon-100Devs
-30 Week Full Stack Web Development Bootcamp by Leon. Check out http://leonnoel/discord to participate
+# LearnWithLeon #100Devs
 
+30 Week Full Stack Web Development Bootcamp by Leon Noel.
+
+__Technologies__
+    - HTMl
+    - CSS
+    - Javascript
+    - Nodejs
+    - Expressjs
+    - MongoDB
+    - Heroku
+
+__Skills__
+    - Full Stack Web Development(MERN)
+    - Data structures & Algorithms( In Javascript)
+    - Freelancing
+    - Networking
+    - Portfolio Ramp up
+    - Soft Skills
+    - Interview Preparation
+
+__JOIN__ 
+    - http://leonnoel/discord
+    - http://twitter.com/leonnoel
+    - https://www.twitch.tv/learnwithleon
+
+
+## Cohort 2 Structure | Syllabus | Materials
 
 | Class #  | Classwork | Homework | Readings | Hosted Websites | Progress |
 | :----------: | :-----------: | :----------: | :----------: |:-----------------: | :-----: |
@@ -74,3 +100,14 @@
 | Class 68 |           |          |          |                 |   []    |
 | Class 69 |           |          |          |                 |   []    |
 | Class 70 |           |          |          |                 |   []    |
+
+
+
+
+
+Refer to emulate the above table : https://www.tablesgenerator.com/markdown_tables
+
+
+## About Me
+
+https://liinks.co/antariksh
