@@ -68,7 +68,7 @@
 | Class 36 |           |          |          |                 | <ul><li> - [ ] </li></ul> |
 | Class 37 |           |          |          |                 | <ul><li> - [ ] </li></ul> |
 | Class 38 |           |          |          |                 | <ul><li> - [ ] </li></ul> |
-| Class 39 |           |          |          |                 | <ul><li> - [ ] </li></ul> |
+| Class 39 |           | https://github.com/antariksh17/100Devs-class-39-hw         |          | https://ant-skateboard-sceneries-frontend.netlify.app/  https://ant-skateboard-scenery.herokuapp.com/                | <ul><li> - [ ] </li></ul> |
 | Class 40 |           |          |          |                 | <ul><li> - [ ] </li></ul> |
 | Class 41 |           |          |          |                 | <ul><li> - [ ] </li></ul> |
 | Class 42 |           |          |          |                 | <ul><li> - [ ] </li></ul> |
