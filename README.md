@@ -65,7 +65,7 @@
 | Class 33 |           |          |          |                 | <ul><li> - [ ] </li></ul> |
 | Class 34 |           |          |          |                 | <ul><li> - [ ] </li></ul> |
 | Class 35 |           |          |          |                 | <ul><li> - [ ] </li></ul> |
-| Class 36 |           |          |          |                 | <ul><li> - [ ] </li></ul> |
+| Class 36 |           |          |          |  https://www.youtube.com/watch?v=8aGhZQkoFbQ https://www.youtube.com/watch?v=cCOL7MC4Pl0 https://zellwk.com/blog/crud-express-mongodb/ (imp)               | <ul><li> - [ ] </li></ul> |
 | Class 37 |           |          |          |                 | <ul><li> - [ ] </li></ul> |
 | Class 38 |           |          |          |                 | <ul><li> - [ ] </li></ul> |
 | Class 39 |           | https://github.com/antariksh17/100Devs-class-39-hw         |          | https://ant-skateboard-sceneries-frontend.netlify.app/  https://ant-skateboard-scenery.herokuapp.com/                | <ul><li> - [ ] </li></ul> |
