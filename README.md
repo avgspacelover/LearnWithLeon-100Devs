@@ -32,7 +32,7 @@
     - Interviewing BANK [ https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c/edit ]
 
 - __IMPORTANT CLASSES__
-    - Guide To Freelancing [ ]
+    - Guide To Freelancing [ https://www.youtube.com/watch?v=68Li7ukgDKg ]
     - Fix Your Resume To Get Interviews [ https://www.youtube.com/watch?v=ZlB4BockYNQ ]
     - Crafting Your Stories [https://www.youtube.com/watch?v=QoweoDsi5ZI ]
     - Why Aren't you Getting Interviews [ ]
