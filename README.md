@@ -37,9 +37,9 @@
     - Crafting Your Stories [https://www.youtube.com/watch?v=QoweoDsi5ZI ]
     - Why Aren't you Getting Interviews [ https://www.youtube.com/watch?v=lIE1LFz4LJM ]
     - Review Classes
-        - HTML , CSS & Basics of JS Review []
+        - HTML , CSS & Basics of JS Review [ https://www.youtube.com/watch?v=AkXLGS57MS4 ]
         - JavaScript Deep Dive Review [ https://youtu.be/EOjUT746oLs ]
-        - Javascript Super 9 Hour Review [ ]
+        - Javascript Super 9 Hour Review [ https://www.youtube.com/watch?v=1sRJYuaqoiI ]
 
 ## Cohort 2 Structure | Syllabus | Materials
 
@@ -80,13 +80,13 @@
 | Class 33 | Why aren't you getting interviews? | Read / Do: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await Watch / Do: https://youtu.be/vn3tm0quoqE TYPE OUT ALL THE EXAMPLES!!! Want to Push? Read / Do: https://javascript.info/async |Do: Start prepping THE BANK Do: Complete Your Professional Links READ: Modern Javascript For Dinosaurs - https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70 WATCH: Node.js Crash Course (just get through it) - https://youtu.be/fBNz5xF-Kx4 Want to Push?
 Read / Do: https://javascript.info/async |                 | <ul><li> - [ ] </li></ul> | https://www.youtube.com/watch?v=lIE1LFz4LJM  |
 | Class 34 | Crush Your Technical Interviews! Secrets To Landing Your First Tech Job |          |          |                 | <ul><li> - [ ] </li></ul> | https://www.youtube.com/watch?v=KM1RyffIKMg&ab_channel=LeonNoel |
-| Class 35 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
+| Class 35 |           |          |          |                 | <ul><li> - [ ] </li></ul> | https://www.youtube.com/watch?v=IUCnAhr61pg  |
 | Class 36 | JS Event loop for beginners |          |          |  https://www.youtube.com/watch?v=8aGhZQkoFbQ https://www.youtube.com/watch?v=cCOL7MC4Pl0 https://zellwk.com/blog/crud-express-mongodb/ (imp)               | <ul><li> - [ ] </li></ul> | https://www.youtube.com/watch?v=nv5SequVETI  |
-| Class 37 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
+| Class 37 |           |          |          |                 | <ul><li> - [ ] </li></ul> | https://www.youtube.com/watch?v=6rsA_RCe5YM  |
 | Class 38 |           |          |          |                 | <ul><li> - [ ] </li></ul> | https://www.youtube.com/watch?v=000ai6I6Aow  |
-| Class 39 |           | https://github.com/antariksh17/100Devs-class-39-hw         |          | https://ant-skateboard-sceneries-frontend.netlify.app/  https://ant-skateboard-scenery.herokuapp.com/                | <ul><li> - [ ] </li></ul> |   |
-| Class 40 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
-| Class 41 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
+| Class 39 |           | https://github.com/antariksh17/100Devs-class-39-hw         |          | https://ant-skateboard-sceneries-frontend.netlify.app/  https://ant-skateboard-scenery.herokuapp.com/                | <ul><li> - [ ] </li></ul> | https://www.youtube.com/watch?v=zHq0v5RD_Zk  |
+| Class 40 |           |          |          |                 | <ul><li> - [ ] </li></ul> | https://www.youtube.com/watch?v=3eafTTnEfMw  |
+| Class 41 |           |          |          |                 | <ul><li> - [ ] </li></ul> | https://www.youtube.com/watch?v=LHf_STV_rLE  |
 | Class 42 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 43 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
 | CLass 44 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
