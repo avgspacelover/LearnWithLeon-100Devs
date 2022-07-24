@@ -27,8 +27,8 @@
     - https://www.youtube.com/channel/UCGiRSHBdWuCgjgmPPz_13xw
 
 - __JOB SEARCH Documents__
-    - Networking List []
-    - Work Profile CheckList [ https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg ]
+    - Networking List [ https://docs.google.com/spreadsheets/u/1/d/1Be-6gYvrfi8l-M0RnObzdysRIG7N7Yyu6rIF0OHw0Q4/edit?ouid=103942473669096944045&usp=sheets_home&ths=true ]
+    - Professional CheckList [ https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg ]
     - Interviewing BANK [ https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c/edit ]
 
 - __IMPORTANT CLASSES__
@@ -45,7 +45,7 @@
 
 | Class #  | Classwork | Homework | Readings | Hosted Websites | Progress | Youtube Link 
 | :----------: | :-----------: | :----------: | :----------: |:-----------------: | :----: | :---------: |
-| Class 01 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
+| Class 01 |           |          |          |                 | <ul><li> - [ ] </li></ul> | https://www.youtube.com/watch?v=o3IIobN4xR0  |
 | Class 02 | https://github.com/antariksh17/LearnWithLeon-100Devs/Class-02          |          |          |                 | <ul><li> - [ ] </li></ul> |  |
 | Class 03 |           |          |          |                 | <ul><li> - [ ] </li></ul> |  |
 | Class 04 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
@@ -70,20 +70,20 @@
 | Class 23 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 24 |           |  Try getting Git Installed, here are some resources (we'll also go into more detail during our office hours):https://github.com/git-guides/install-git https://www.theodinproject.com/courses/foundations/lessons/setting-up-git (If on Windows, please use Git Bash and look into setting up WSL: https://ubuntu.com/wsl)  | Do: https://aka.ms/learnwithleon (Intro. To Github) |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 25 | Fix Your Resume to get Interviews |          |          |                 | <ul><li> - [ ] </li></ul> | https://www.youtube.com/watch?v=ZlB4BockYNQ  |
-| Class 26 |           | Do: Play with the cocktailDB api! Make it do something else! Do: Find three APIs and build three simple apps using those APIs (Not all of these work, but it is a start: https://github.com/public-apis/public-apis) Do: Codewars Daily! Do: Anki Daily! | Do: Make a rotating list of drinks (an automatic carousel) from the cocktailDB Do: Make the NASA API handle all the data types including video Do: Add an API to your portfolio website Do: A 7kyu Codewars |                 | <ul><li> - [ ] </li></ul> |   |
+| Class 26 |           | Do: Play with the cocktailDB api! Make it do something else! Do: Find three APIs and build three simple apps using those APIs (Not all of these work, but it is a start: https://github.com/public-apis/public-apis) Do: Codewars Daily! Do: Anki Daily! | Do: Make a rotating list of drinks (an automatic carousel) from the cocktailDB Do: Make the NASA API handle all the data types including video Do: Add an API to your portfolio website Do: A 7kyu Codewars |                 | <ul><li> - [ ] </li></ul> | https://www.youtube.com/watch?v=WcSTeotmJtw  |
 | Class 27 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 28 |           | Submit Homework:API work: https://forms.gle/mSR6TGf7F6iN54Wy5 Do: Catch Up Do: Intro JS Course https://www.codecademy.com/learn/introduction-to-javascript (~30 Hours) Do: Professional Checklist https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg |          |                 | <ul><li> - [ ] </li></ul> |   |
-| Class 29 |           | Want To Push (Due: Tues. May 3rd)? Read / Do: Eloquent JS Ch. 06 - https://eloquentjavascript.net/06_object.html |          |                 | <ul><li> - [ ] </li></ul> |   |
+| Class 29 | Review Basics of Javascript | Want To Push (Due: Tues. May 3rd)? Read / Do: Eloquent JS Ch. 06 - https://eloquentjavascript.net/06_object.html |          |                 | <ul><li> - [ ] </li></ul> | https://www.youtube.com/watch?v=EOjUT746oLs  |
 | Class 30 |           |          |          |                 | <ul><li> - [ ] </li></ul> | https://youtu.be/GihfY5OVDdk  |
 | Class 31 |           | Watch / Do: https://youtu.be/PFmuCDHHpwk Read / Do: JS Way Ch. 09 - https://github.com/thejsway/thejsway/blob/master/manuscript/chapter09.md Do: 7 Codewars No Submission Today DO: Please review, play, and break the code we go over tonight. Get lost in it, come with questions, and ready to review on Thursday. DO: Get a paid client, Volunteer, or Contribute To Free Software DO: FINISH Professional Checklist - https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg | Want To Push (Due: Thurs. May 5th)? Do: Codewars Array Ladder (search array problems) - 8kyu, 7kyu, 6kyu, 7kyu, 8kyu |                 | <ul><li> - [ ] </li></ul> | https://youtu.be/PD-dx92RJtg  |
-| Class 32 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
+| Class 32 | OOPS W/ JS Review  |          |          |                 | <ul><li> - [ ] </li></ul> | https://www.youtube.com/watch?v=yEhs4XtuAgA  |
 | Class 33 | Why aren't you getting interviews? | Read / Do: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await Watch / Do: https://youtu.be/vn3tm0quoqE TYPE OUT ALL THE EXAMPLES!!! Want to Push? Read / Do: https://javascript.info/async |Do: Start prepping THE BANK Do: Complete Your Professional Links READ: Modern Javascript For Dinosaurs - https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70 WATCH: Node.js Crash Course (just get through it) - https://youtu.be/fBNz5xF-Kx4 Want to Push?
 Read / Do: https://javascript.info/async |                 | <ul><li> - [ ] </li></ul> | https://www.youtube.com/watch?v=lIE1LFz4LJM  |
-| Class 34 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
+| Class 34 | Crush Your Technical Interviews! Secrets To Landing Your First Tech Job |          |          |                 | <ul><li> - [ ] </li></ul> | https://www.youtube.com/watch?v=KM1RyffIKMg&ab_channel=LeonNoel |
 | Class 35 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
-| Class 36 |           |          |          |  https://www.youtube.com/watch?v=8aGhZQkoFbQ https://www.youtube.com/watch?v=cCOL7MC4Pl0 https://zellwk.com/blog/crud-express-mongodb/ (imp)               | <ul><li> - [ ] </li></ul> |   |
+| Class 36 | JS Event loop for beginners |          |          |  https://www.youtube.com/watch?v=8aGhZQkoFbQ https://www.youtube.com/watch?v=cCOL7MC4Pl0 https://zellwk.com/blog/crud-express-mongodb/ (imp)               | <ul><li> - [ ] </li></ul> | https://www.youtube.com/watch?v=nv5SequVETI  |
 | Class 37 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
-| Class 38 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
+| Class 38 |           |          |          |                 | <ul><li> - [ ] </li></ul> | https://www.youtube.com/watch?v=000ai6I6Aow  |
 | Class 39 |           | https://github.com/antariksh17/100Devs-class-39-hw         |          | https://ant-skateboard-sceneries-frontend.netlify.app/  https://ant-skateboard-scenery.herokuapp.com/                | <ul><li> - [ ] </li></ul> |   |
 | Class 40 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 41 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
