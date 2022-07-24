@@ -33,10 +33,12 @@
 
 - __IMPORTANT CLASSES__
     - Guide To Freelancing [ ]
+    - Fix Your Resume To Get Interviews [ ]
     - Why Aren't you Getting Interviews [ ]
     - Review Classes
         - HTML , CSS & Basics of JS Review []
-        - JavaScript Deep Dive Review []
+        - JavaScript Deep Dive Review [ https://youtu.be/EOjUT746oLs ]
+        - Javascript Super 9 Hour Review [ ]
 
 ## Cohort 2 Structure | Syllabus | Materials
 
@@ -69,10 +71,11 @@ Watch: https://youtu.be/0fKg7e37bQE​ Do: https://aka.ms/learnwithleon (Intro. 
 | Class 24 |           |  Try getting Git Installed, here are some resources (we'll also go into more detail during our office hours):https://github.com/git-guides/install-git https://www.theodinproject.com/courses/foundations/lessons/setting-up-git
 (If on Windows, please use Git Bash and look into setting up WSL: https://ubuntu.com/wsl)  | Do: https://aka.ms/learnwithleon (Intro. To Github) |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 25 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
-| Class 26 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
+| Class 26 |           | Do: Play with the cocktailDB api! Make it do something else! Do: Find three APIs and build three simple apps using those APIs (Not all of these work, but it is a start: https://github.com/public-apis/public-apis) Do: Codewars Daily! Do: Anki Daily! | Do: Make a rotating list of drinks (an automatic carousel) from the cocktailDB Do: Make the NASA API handle all the data types including video Do: Add an API to your portfolio website Do: A 7kyu Codewars |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 27 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
-| Class 28 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
-| Class 29 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
+| Class 28 |           | Submit Homework:API work: https://forms.gle/mSR6TGf7F6iN54Wy5 Do: Catch Up Do: Intro JS Course https://www.codecademy.com/learn/introduction-to-javascript (~30 Hours) Do: Professional Checklist https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg |          |                 | <ul><li> - [ ] </li></ul> |   |
+| Class 29 |           | Want To Push (Due: Tues. May 3rd)? Read / Do: Eloquent JS Ch. 06 - https://eloquentjavascript.net/06_object.html
+         |          |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 30 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 31 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 32 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
