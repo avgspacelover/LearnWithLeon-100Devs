@@ -33,7 +33,8 @@
 
 - __IMPORTANT CLASSES__
     - Guide To Freelancing [ ]
-    - Fix Your Resume To Get Interviews [ ]
+    - Fix Your Resume To Get Interviews [ https://www.youtube.com/watch?v=ZlB4BockYNQ ]
+    - Crafting Your Stories [https://www.youtube.com/watch?v=QoweoDsi5ZI ]
     - Why Aren't you Getting Interviews [ ]
     - Review Classes
         - HTML , CSS & Basics of JS Review []
@@ -68,7 +69,7 @@
 | Class 22 |           |  Watch / Do: https://youtu.be/PFmuCDHHpwk Watch: https://youtu.be/0fKg7e37bQE​ Do: https://aka.ms/learnwithleon (Intro. To Github) | Want to push?: Read and do the tasks: https://javascript.info/ Whole Chapter - Objects: the basics Read: Pillars of OOP - https://medium.com/@hamzzza.ahmed95/four-pillars-of-object-oriented-programming-oop-e8d7822aa219 |        | <ul><li> - [ ] </li></ul> |   |
 | Class 23 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 24 |           |  Try getting Git Installed, here are some resources (we'll also go into more detail during our office hours):https://github.com/git-guides/install-git https://www.theodinproject.com/courses/foundations/lessons/setting-up-git (If on Windows, please use Git Bash and look into setting up WSL: https://ubuntu.com/wsl)  | Do: https://aka.ms/learnwithleon (Intro. To Github) |                 | <ul><li> - [ ] </li></ul> |   |
-| Class 25 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
+| Class 25 | Fix Your Resume to get Interviews |          |          |                 | <ul><li> - [ ] </li></ul> | https://www.youtube.com/watch?v=ZlB4BockYNQ  |
 | Class 26 |           | Do: Play with the cocktailDB api! Make it do something else! Do: Find three APIs and build three simple apps using those APIs (Not all of these work, but it is a start: https://github.com/public-apis/public-apis) Do: Codewars Daily! Do: Anki Daily! | Do: Make a rotating list of drinks (an automatic carousel) from the cocktailDB Do: Make the NASA API handle all the data types including video Do: Add an API to your portfolio website Do: A 7kyu Codewars |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 27 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 28 |           | Submit Homework:API work: https://forms.gle/mSR6TGf7F6iN54Wy5 Do: Catch Up Do: Intro JS Course https://www.codecademy.com/learn/introduction-to-javascript (~30 Hours) Do: Professional Checklist https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg |          |                 | <ul><li> - [ ] </li></ul> |   |
