@@ -62,10 +62,12 @@
 | Class 18 | SUPER REVIEW!!!! |          |          |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 19 |           | Do: Minimum of 1 https://codewars.com/ 8 Kyu Fundamentals Track EVERY DAY - 20 mins then look at solution! Do: https://javascript30.com/ Day 04 Array Cardio (super hard, do it on Discord together)| Place your drafts in a shared google doc and your JS tasks in a  https://codepen.io/ and submit the URLs here: https://forms.gle/PLuuSi7aHeL7wbMQ9 Read: https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md Read: https://javascript.info/array-methods Read: https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md Read: https://eloquentjavascript.net/04_data.html  |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 20 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
-| Class 21 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
-| Class 22 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
+| Class 21 |           | Do: https://javascript30.com/ Day 04 Array Cardio (PLEASE DO IT AGAIN) | Read: https://javascript.info/array-methods  Read: https://javascript.info/object |                 | <ul><li> - [ ] </li></ul> |   |
+| Class 22 |           |  Watch / Do: https://youtu.be/PFmuCDHHpwk
+Watch: https://youtu.be/0fKg7e37bQE​ Do: https://aka.ms/learnwithleon (Intro. To Github) | Want to push?: Read and do the tasks: https://javascript.info/ Whole Chapter - Objects: the basics Read: Pillars of OOP - https://medium.com/@hamzzza.ahmed95/four-pillars-of-object-oriented-programming-oop-e8d7822aa219 |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 23 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
-| Class 24 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
+| Class 24 |           |  Try getting Git Installed, here are some resources (we'll also go into more detail during our office hours):https://github.com/git-guides/install-git https://www.theodinproject.com/courses/foundations/lessons/setting-up-git
+(If on Windows, please use Git Bash and look into setting up WSL: https://ubuntu.com/wsl)  | Do: https://aka.ms/learnwithleon (Intro. To Github) |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 25 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 26 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 27 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
