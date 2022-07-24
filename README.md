@@ -48,10 +48,7 @@
     |          |                 | <ul><li> - [ ] </li></ul> | https://youtu.be/PWVRSXQxsXc  |
 | Class 09 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 10 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
-| Class 11 |           | Want More Flexbox?:
-https://www.freecodecamp.org/news/css-flexbox-tutorial-with-cheatsheet/
-https://youtu.be/JJSoEo8JSnc
-https://mastery.games/flexboxzombies/ |          |                 | <ul><li> - [ ] </li></ul> | https://youtu.be/qEj0pXGVwjY   |
+| Class 11 |           | Want More Flexbox?: https://www.freecodecamp.org/news/css-flexbox-tutorial-with-cheatsheet/ https://youtu.be/JJSoEo8JSnc https://mastery.games/flexboxzombies/ |          |                 | <ul><li> - [ ] </li></ul> | https://youtu.be/qEj0pXGVwjY   |
 | Class 12 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 13 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 14 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
