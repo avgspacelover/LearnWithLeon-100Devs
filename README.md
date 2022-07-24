@@ -28,7 +28,7 @@
 
 - __JOB SEARCH Documents__
     - Networking List []
-    - Work Profile CheckList []
+    - Work Profile CheckList [ https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg ]
     - Interviewing BANK []
 
 
@@ -48,8 +48,9 @@
 | Class 09 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 10 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 11 |           | Want More Flexbox?: https://www.freecodecamp.org/news/css-flexbox-tutorial-with-cheatsheet/ https://youtu.be/JJSoEo8JSnc https://mastery.games/flexboxzombies/ |          |                 | <ul><li> - [ ] </li></ul> | https://youtu.be/qEj0pXGVwjY   |
-| Class 12 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
-| Class 13 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
+| Class 12 |           | Homework (Due Tuesday - Feb. 22nd):
+Do: Plan out your networking! Do: Delete the JS and do it again for all assignments Do: Something special for yourself this weekend | Cool breakdown of some low level code and how a Game Boy actually works: https://youtu.be/RZUDEaLa5Nw Someone really good at reverse engineering (Scanlime): https://www.youtube.com/c/scanlime/videos Book - Code: The Hidden Language of Computer Hardware and Software by Charles Petzold Read: https://javascript.info/variables + Tasks Read: https://javascript.info/function-basics + Tasks  |                 | <ul><li> - [ ] </li></ul> |  https://youtu.be/_A20kVsaqIk |
+| Class 13 |           | Play with any of the JS and make changes? Place your javascript changes in a https://codepen.io/ and submit the URLs here: https://forms.gle/G7LhHnyTA7zYq7UV6 Do: NETWORK! Do: Delete the JS and do it again for all assignments | https://javascript.info/function-expressions + Tasks https://javascript.info/arrow-functions-basics + Tasks https://github.com/thejsway/thejsway/blob/master/manuscript/chapter04.md |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 14 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 15 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 16 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
