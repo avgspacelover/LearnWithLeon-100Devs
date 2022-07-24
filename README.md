@@ -35,7 +35,7 @@
     - Guide To Freelancing [ https://www.youtube.com/watch?v=68Li7ukgDKg ]
     - Fix Your Resume To Get Interviews [ https://www.youtube.com/watch?v=ZlB4BockYNQ ]
     - Crafting Your Stories [https://www.youtube.com/watch?v=QoweoDsi5ZI ]
-    - Why Aren't you Getting Interviews [ ]
+    - Why Aren't you Getting Interviews [ https://www.youtube.com/watch?v=lIE1LFz4LJM ]
     - Review Classes
         - HTML , CSS & Basics of JS Review []
         - JavaScript Deep Dive Review [ https://youtu.be/EOjUT746oLs ]
