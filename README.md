@@ -44,8 +44,7 @@
 | Class 05 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 06 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 07 |           | Do: http://flexboxfroggy.com/ Watch: Independence Day Place your 15 minutes of pain responsive in a https://codepen.io/ and submit the URLs here: https://forms.gle/AaoHzDEXm3Hjc7JL8   | css-tricks.com/snippets/css/a-guide-to-flexbox |                 | <ul><li> - [ ] </li></ul> | https://youtu.be/k8r3B0JGMt4  |
-| Class 08 |           | Do: The 3 layouts we did in class Do: The Level Ground & Source Layouts in the homework-layout-photos Push?: Do Pushwork Homepage and add media queries to other layouts
-    |          |                 | <ul><li> - [ ] </li></ul> | https://youtu.be/PWVRSXQxsXc  |
+| Class 08 |           | Do: The 3 layouts we did in class Do: The Level Ground & Source Layouts in the homework-layout-photos Push?: Do Pushwork Homepage and add media queries to other layouts |          |                 | <ul><li> - [ ] </li></ul> | https://youtu.be/PWVRSXQxsXc  |
 | Class 09 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 10 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 11 |           | Want More Flexbox?: https://www.freecodecamp.org/news/css-flexbox-tutorial-with-cheatsheet/ https://youtu.be/JJSoEo8JSnc https://mastery.games/flexboxzombies/ |          |                 | <ul><li> - [ ] </li></ul> | https://youtu.be/qEj0pXGVwjY   |
