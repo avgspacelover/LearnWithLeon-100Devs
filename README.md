@@ -72,8 +72,7 @@
 | Class 26 |           | Do: Play with the cocktailDB api! Make it do something else! Do: Find three APIs and build three simple apps using those APIs (Not all of these work, but it is a start: https://github.com/public-apis/public-apis) Do: Codewars Daily! Do: Anki Daily! | Do: Make a rotating list of drinks (an automatic carousel) from the cocktailDB Do: Make the NASA API handle all the data types including video Do: Add an API to your portfolio website Do: A 7kyu Codewars |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 27 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 28 |           | Submit Homework:API work: https://forms.gle/mSR6TGf7F6iN54Wy5 Do: Catch Up Do: Intro JS Course https://www.codecademy.com/learn/introduction-to-javascript (~30 Hours) Do: Professional Checklist https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg |          |                 | <ul><li> - [ ] </li></ul> |   |
-| Class 29 |           | Want To Push (Due: Tues. May 3rd)? Read / Do: Eloquent JS Ch. 06 - https://eloquentjavascript.net/06_object.html
-         |          |                 | <ul><li> - [ ] </li></ul> |   |
+| Class 29 |           | Want To Push (Due: Tues. May 3rd)? Read / Do: Eloquent JS Ch. 06 - https://eloquentjavascript.net/06_object.html |          |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 30 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 31 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
 | Class 32 |           |          |          |                 | <ul><li> - [ ] </li></ul> |   |
